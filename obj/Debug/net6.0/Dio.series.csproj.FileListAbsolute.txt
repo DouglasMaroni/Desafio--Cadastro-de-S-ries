@@ -1,0 +1,15 @@
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.csproj.AssemblyReference.cache
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.AssemblyInfoInputs.cache
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.AssemblyInfo.cs
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.csproj.CoreCompileInputs.cache
+C:\Desafios de codigo\Dio.Series\bin\Debug\net6.0\Dio.series.exe
+C:\Desafios de codigo\Dio.Series\bin\Debug\net6.0\Dio.series.deps.json
+C:\Desafios de codigo\Dio.Series\bin\Debug\net6.0\Dio.series.runtimeconfig.json
+C:\Desafios de codigo\Dio.Series\bin\Debug\net6.0\Dio.series.dll
+C:\Desafios de codigo\Dio.Series\bin\Debug\net6.0\ref\Dio.series.dll
+C:\Desafios de codigo\Dio.Series\bin\Debug\net6.0\Dio.series.pdb
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.dll
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\ref\Dio.series.dll
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.pdb
+C:\Desafios de codigo\Dio.Series\obj\Debug\net6.0\Dio.series.genruntimeconfig.cache
